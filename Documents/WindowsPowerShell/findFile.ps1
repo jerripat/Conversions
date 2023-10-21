@@ -1,0 +1,1 @@
+﻿Get-Childitem –Path C:\ -Include '*.php' -File -Recurse -ErrorAction SilentlyContinue

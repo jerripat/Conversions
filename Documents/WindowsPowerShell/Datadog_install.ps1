@@ -1,0 +1,1 @@
+﻿DD_AGENT_MAJOR_VERSION=7 DD_API_KEY=cc43cb7c1e8f0b411be2a1e0a47e61dd DD_SITE="datadoghq.com" bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script.sh)"

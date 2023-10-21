@@ -1,0 +1,14 @@
+{
+  "Top": "D:\\PowerShell\\src\\powershell-win-core",
+  "RootInfo": {
+    "RepoPath": "D:\\PowerShell",
+    "ValidPath": "D:\\PowerShell",
+    "IsValid": true
+  },
+  "Output": "D:\\PowerShell\\src\\powershell-win-core\\bin\\Release\\net6.0\\win-arm64\\publish\\pwsh.exe",
+  "Configuration": "Release",
+  "Framework": "net6.0",
+  "ForMinimalSize": false,
+  "PSModuleRestore": false,
+  "Runtime": "win-arm64"
+}
